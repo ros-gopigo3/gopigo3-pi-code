@@ -1,4 +1,5 @@
 # GoPiGo3 ROS package
+Packages to be included in the Raspberry Pi of robot to run the examples in the book "Hands on ROS for Robotics Programming" published by Packt Pub https://www.packtpub.com/iot-hardware/hands-on-ros-for-robotics-programming
 
 ## Folder `pkg_mygopigo`
 Includes drives and distance sensor (to be added line follower and IMU)
